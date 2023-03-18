@@ -26,7 +26,7 @@ Within this course we will explore X
 
 You can use the following sections to navigate through the content of the lecture:
 
-* [Overview & procedure ](https://m-earnest.github.io/course_template_diler/general_information/overview.html)
+* [Overview & procedure ](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Discussion.html)
 
    What's this course all about? How are things implemented and supposed to work?
 
