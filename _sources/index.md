@@ -7,7 +7,7 @@ titlesonly: true
 ---
 ```
 
-![diler logo](static/logo.png)
+![brain](static/brain_image.png)
 
 
 # Welcome!
