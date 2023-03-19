@@ -24,44 +24,31 @@ Hello everyone and welcome to the documentation of the Neurocognitive Psychology
 
 Within this course we will explore the cortical thickness differences in Autism Spectrum disorder when compared to the brains of Neurotypical individuals, and whether machine learning can predict which brain belongs in which category. An assessment of cortical thickness differences between the 2 biological sexes will also be undertaken. 
 
-You can use the following sections to navigate through the content of the lecture:
+You can use the following sections to navigate through different aspects of this project:
 
-* [Conception of the research question ](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Literature_Review.html)
+* [Theoretical background and research question](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Literature_Review.html)
 
-   What's this course all about? How are things implemented and supposed to work?
+   Why was this topic of interest chose and what is already known about it? What Datasets are out there to use?
+    
+* [Data- and Projectmanagement](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Datamanagement_Plan.html)
 
-* [General outline](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
+   How was the data aquired and organised? Where is everything documented? FAIR-ness?
 
-   What are the specific topics and aspects taught?
+* [Data Analysis](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Data_analysis.html)
 
-   All things gotta start somewhere, but how?
-
-* [Content](https://m-earnest.github.io/course_template_diler/content/intro_content.html)
-
-   What is this course gonna contain?
+   How was the data downloaded, explored and analysed? Future directions?
 
    
-* [Results communication](https://m-earnest.github.io/course_template_diler/general_information/results_communication.html)
+* [Discussion and reflection](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Discussion.html)
 
-   Where should the acquired knowledge to be disseminated?
+   What does our analysis mean? Why could it be of importance? What are some limitations? What problems were faced? 
 
-* [Symposium](https://m-earnest.github.io/course_template_diler/general_information/symposium.html)
+## Project vision
 
-   What to do about outreach and discourse creation?
-
-
-* [Diversity, Equity, Inclusion](https://m-earnest.github.io/course_template_diler/general_information/dei.html)
-
-   What to look out for, what to keep in mind and how to trear each other.
-
-* [Code of Conduct](https://m-earnest.github.io/course_template_diler/general_information/CoC.html)
-
-   Necessities for creating an open, fair, safe and inclusive learning
-   experience.
-
-## I've got a question!
-
-In case you have any questions or difficulties with the lecture and its materials, please don’t hesitate a single second to get in touch with us. A great way to do this is to open an issue on the GitHub site of the course. You can of course further contact us via [E-mail](@psych.uni-frankfurt.de). Every feedback or idea  you might have is highly appreciated and valued.
+As part of the MSc5 research module, a presentation was held depicting what the ideas and plans are for the project. You can find the presentation held [here](https://docs.google.com/presentation/d/1FXIgEsk5DZhZDtanG5q73QzMx1_c4PUtBNxw-5kaeY4/edit#slide=id.p), if you are interested in finding out more about the process of working through the ideas. 
 
 
 ## Acknowledgements
+
+I would like to express my deepest appreciation to Peer Herholz for his effort in creating this module for us and for providing so much new and valuable information and skill for us to learn, and for always being kind and helpful when it was needed no matter how big or small. A big thanks to Michael Ernst for giving so much informational input and providing in person sessions for useful exchanges, and to Maren Wehrheim for supervising and assisitng with the data analysis, and for providing new and innovative ways of applying machine learning methods. 
+
