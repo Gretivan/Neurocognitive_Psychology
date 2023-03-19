@@ -18,23 +18,21 @@ These pages are currently under construction and will be updated continuously.
 Please visit these pages again in the next few weeks for further information.
 ````
 
-Hello everyone and welcome to the course page for X
+Hello everyone and welcome to the documentation of the Neurocognitive Psychology research project “Autism Spectrum disorder and Neuroanatomy”, conducted within the MSc5 course Computational Neuroscience at the Goethe University in Frankfurt am Main.
 
-## Course name
+## ASD and Neuroanatomy
 
-Within this course we will explore X
+Within this course we will explore the cortical thickness differences in Autism Spectrum disorder when compared to the brains of Neurotypical individuals, and whether machine learning can predict which brain belongs in which category. An assessment of cortical thickness differences between the 2 biological sexes will also be undertaken. 
 
 You can use the following sections to navigate through the content of the lecture:
 
-* [Overview & procedure ](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Discussion.html)
+* [Conception of the research question ](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Literature_Review.html)
 
    What's this course all about? How are things implemented and supposed to work?
 
 * [General outline](https://m-earnest.github.io/course_template_diler/general_information/outline.html)
 
    What are the specific topics and aspects taught?
-
-* [Introduction](https://m-earnest.github.io/course_template_diler/introduction/intro.html)
 
    All things gotta start somewhere, but how?
 
