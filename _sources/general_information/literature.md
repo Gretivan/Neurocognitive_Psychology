@@ -55,3 +55,21 @@ Some of the packages used for the project are:
 - seabourn - to plot scatter graphs
 - nibabel - to load the anatomical images
 - nilearn - to produce a masker for the anatomical data
+
+## *References*
+
+Aglinskas, A., Hartshorne, J. K., & Anzellotti, S. (2022). Contrastive machine learning reveals the structure of neuroanatomical variation within autism. Science, 376(6597), 1070-1074. https://doi.org/10.1126/science.abm2461
+
+Hodges, H., Fealko, C., & Soares, N. (2020). Autism spectrum disorder: definition, epidemiology, causes, and clinical evaluation. Translational pediatrics, 9(Suppl 1), S55. https://doi.org/10.21037/tp.2019.09.09
+
+Beacher, F. D., Minati, L., Baron-Cohen, S., Lombardo, M. V., Lai, M. C., Gray, M. A., ... & Critchley, H. D. (2012). Autism attenuates sex differences in brain structure: a combined voxel-based morphometry and diffusion tensor imaging study. American Journal of Neuroradiology, 33(1), 83-89. https://doi.org/10.3174/ajnr.A2880
+
+Schuck, R. K., Flores, R. E., & Fung, L. K. (2019). Brief report: Sex/gender differences in symptomology and camouflaging in adults with autism spectrum disorder. Journal of autism and developmental disorders, 49, 2597-2604. https://doi.org/10.1007/s10803-019-03998-y 
+
+Schaer, M., Kochalka, J., Padmanabhan, A., Supekar, K., & Menon, V. (2015). Sex differences in cortical volume and gyrification in autism. Molecular Autism, 6, 1-14. https://doi.org/10.1186/s13229-015-0035-y
+
+Baron‐Cohen, S. (2009). Autism: the empathizing–systemizing (E‐S) theory. Annals of the New York Academy of Sciences, 1156(1), 68-80. https://doi.org/10.1111/j.1749-6632.2009.04467.x
+
+Baron-Cohen, S., & Wheelwright, S. (2004). The empathy quotient: an investigation of adults with Asperger syndrome or high functioning autism, and normal sex differences. Journal of autism and developmental disorders, 34, 163-175. https://doi.org/10.1023/b:jadd.0000022607.19833.00
+
+Hull, L., Mandy, W., & Petrides, K. V. (2017). Behavioural and cognitive sex/gender differences in autism spectrum condition and typically developing males and females. Autism, 21(6), 706-727. https://doi.org/10.1177/1362361316669087
