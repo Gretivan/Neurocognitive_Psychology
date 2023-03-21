@@ -26,7 +26,7 @@ Within this course we will explore the cortical thickness differences in Autism 
 
 You can use the following sections to navigate through different aspects of this project:
 
-* [Theoretical background and research question](https://gretivan.github.io/Neurocognitive_Psychology/general_information/introduction.html)
+* [Theoretical background and research question](https://gretivan.github.io/Neurocognitive_Psychology/general_information/literature.html)
 
    Why was this topic of interest chose and what is already known about it? What Datasets are out there to use?
     
