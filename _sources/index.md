@@ -26,11 +26,11 @@ Within this course we will explore the cortical thickness differences in Autism 
 
 You can use the following sections to navigate through different aspects of this project:
 
-* [Theoretical background and research question](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Literature_Review.html)
+* [Theoretical background and research question](https://gretivan.github.io/Neurocognitive_Psychology/general_information/introduction.html)
 
    Why was this topic of interest chose and what is already known about it? What Datasets are out there to use?
     
-* [Data- and Projectmanagement](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Datamanagement_Plan.html)
+* [Data- and Projectmanagement](https://gretivan.github.io/Neurocognitive_Psychology/general_information/datamanagement.html)
 
    How was the data aquired and organised? Where is everything documented? FAIR-ness?
 
@@ -39,7 +39,7 @@ You can use the following sections to navigate through different aspects of this
    How was the data downloaded, explored and analysed? Future directions?
 
    
-* [Discussion and reflection](https://gretivan.github.io/Neurocognitive_Psychology/general_information/Discussion.html)
+* [Discussion and reflection](https://gretivan.github.io/Neurocognitive_Psychology/general_information/discussion.html)
 
    What does our analysis mean? Why could it be of importance? What are some limitations? What problems were faced? 
 
