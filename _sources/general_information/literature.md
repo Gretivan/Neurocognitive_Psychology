@@ -12,7 +12,7 @@ Symptomatically and behaviorally, ASD affects males and females differently. It 
 Since its etiology is still unclear, recent research has started looking into the potential neurobiological markers for ASD. The goal of identifying neurobiological, or neuroanatomical, differences between individuals with ASD and individuals with neurotypical brain development is to inform diagnosis and aid in personalizing interventions. One of these studies found, using deep learning to extract ASD-specific variation from typical brain variation, that ASD-specific neuroanatomical variation correlated with symptomatic differences between participants [(Aglinskas, Hartshorne, & Anzellotti, 2022)](https://www.science.org/doi/10.1126/science.abm2461). They further identified that individuals with ASD are organized along a continuous dimension of distinct sets of regions, as opposed to clustering into separate subtypes as previously hypothesized. This is a very important new finding in the field of diagnostics as the previously trained model can be used on new individuals to disentangle ASD-specific features.
 
 
-![](../general_information/zotero_1.png)
+![](../zotero_1.png)
 
 
 The discovery that ASD-specific neuroanatomical variation correlates with symptomatic individual differences prompts the question: if symptoms of ASD elicit different neuroanatomical variation, and there are clear behavioral and symptomatic distinctions between males and females with ASD, are there identifiable ASD-specific neuroanatomical sex differences? And can an ASD diagnosis be predicted using anatomical brain images and comparing these to neurotypical individuals?
@@ -25,7 +25,7 @@ To investigate this concept of sex-related anatomical differences in individuals
 A similar assessment of sex differences in cortical volume and gyrification in ASD by [Schaer et al., (2015)](https://doi.org/10.1186/s13229-015-0035-y) found that some typical structural sex differences are preserved in ASD while others are not. They identified sex-specific alterations and preservations in clusters of cortical regions associated with language and social function, key areas of deficient function in ASD. These findings elucidate neurobiological mechanisms which may be associated with those sex-specific autistic symptoms, as well as those which are shared. However, this study used the ABIDE I dataset, which again only provides the data of high-functioning individuals due to the difficulties acquiring data of low-functioning children and adolescents. In addition to this, their study lacked heterogeneity within the ASD symptoms and severity.
 
 
-![](../general_information/zotero_2.png)
+![](../zotero_2.png)
 
 
 ## *Hypothesis and Research question*  
