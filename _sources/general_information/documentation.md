@@ -54,4 +54,4 @@ Due to me starting my Praktikum, I started sporadically working on my Notebook, 
 
 
 # 18.03.2023
-Some future directions were considered to recommend some aspects that would have been done differently if there had been more time and things that could be added to make a more comprehensive analysis. In addition to this, I spent more time finalizing and writing for my Jupyter Notebook.
+Some future directions were considered to recommend some aspects that would have been done differently if there had been more time and things that could be added to make a more comprehensive analysis. In addition to this, I spent more time finalizing and writing for my Jupyter Notebook. 
