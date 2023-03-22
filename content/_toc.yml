@@ -3,6 +3,7 @@ format: jb-book
 chapters:
 - file: general_information/literature.md
 - file: general_information/datamanagement.md
-- file: open_lab_notebook/documentation.md 
+  sections:
+  - file: open_lab_notebook/documentation.md 
 - file: general_information/Data_analysis.ipynb
 - file: general_information/discussion.md
