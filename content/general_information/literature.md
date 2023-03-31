@@ -13,6 +13,7 @@ Since its etiology is still unclear, recent research has started looking into th
 
 
 ![](zotero_1.png)
+Figure 1: *[(Aglinskas, Hartshorne, & Anzellotti, 2022](https://www.science.org/doi/10.1126/science.abm2461)*
 
 
 The discovery that ASD-specific neuroanatomical variation correlates with symptomatic individual differences prompts the question: if symptoms of ASD elicit different neuroanatomical variation, and there are clear behavioral and symptomatic distinctions between males and females with ASD, are there identifiable ASD-specific neuroanatomical sex differences? And can an ASD diagnosis be predicted using anatomical brain images and comparing these to neurotypical individuals?
@@ -26,7 +27,7 @@ A similar assessment of sex differences in cortical volume and gyrification in A
 
 
 ![](zotero_2.png)
-
+Figure 2: *[Schaer et al., (2015)](https://doi.org/10.1186/s13229-015-0035-y)
 
 ## *Hypothesis and Research question*  
 Based on these previous findings, and the lack of research into these apparent sex differences in individuals with ASD, we formulated our research questions: are there differences in the cortical thickness of certain areas between males and females with ASD? Can machine learning predict whether someone has ASD based on a structural brain image? Can machine learning predict the sex of a participant based on a structural brain image?
